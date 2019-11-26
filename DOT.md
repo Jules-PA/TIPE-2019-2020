@@ -10,6 +10,17 @@ sujet final: conception d'une hélice marine "efficace"
 conception d'une hélice témoin sur blender
 
 ## mardi 12 novembre:
+réalisation du plan pour le bateau
+début de la construction en elle-même
+modification de la nature profonde du sujet : nous ne voulons plus modifier mais étudier laz géométrie des hélices à partir de modèles préconstruits (la géométrie est bien trop compliquée à étudier/étude théorique au-delà de os compétences actuelles)
+nous avons imaginé les expériences que nous voulons réaliser.
+
+## mardi 19 novembre
+Commande de fournitures pour mener à bien nos expériences : 
+-moteur 12V
+-module Arduino lecteur de carte sd (enregistrement des données)
+-bobine de fils électriques
+-premières hélices
 
 
 
