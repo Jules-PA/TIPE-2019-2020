@@ -33,4 +33,21 @@ conception théorique de notre maquette:
 http://theconversation.com/de-nouvelles-helices-marines-plus-respectueuses-de-lenvironnement-116113
 
 
+Pour la prochaine séance: rapporter le bateau tout fait et commencer à compter le nombre de tours. Trouver un dynamomètre adapté.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
