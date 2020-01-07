@@ -30,7 +30,7 @@ conception théorique de notre maquette:
 -Comment fixer la tuyère?
 -comment optimiserr notre tuyère (hydrodynamisme, entrée d'eau,..)
 
-
+http://theconversation.com/de-nouvelles-helices-marines-plus-respectueuses-de-lenvironnement-116113
 
 
 
