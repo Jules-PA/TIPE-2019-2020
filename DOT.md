@@ -35,8 +35,14 @@ http://theconversation.com/de-nouvelles-helices-marines-plus-respectueuses-de-le
 
 Pour la prochaine séance: rapporter le bateau tout fait et commencer à compter le nombre de tours. Trouver un dynamomètre adapté.
 
-
-
+## mardi 14 Janvier
+Nous avons commencé à concevoir notre bateau:
+-Soude du moteur avec la tige le reliant à l'hélice
+-première utilisation du moteur. Comment l'alimenter de manière efficace?
+-dispostition arbitraitre du moteur sur une plaque de bois, afin de trouver la meilleure position pour optimiser l'efficacité du dispositif.
+-première mesure (arbitraire): Force de traction = 0.25N
+===> COMMENT AUGMENTER PUISSANCE? (tUYERE? DOUBLE HELICE?)
+==> CF PHOTOSz
 
 
 
