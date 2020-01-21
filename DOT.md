@@ -42,8 +42,15 @@ Nous avons commencé à concevoir notre bateau:
 -dispostition arbitraitre du moteur sur une plaque de bois, afin de trouver la meilleure position pour optimiser l'efficacité du dispositif.
 -première mesure (arbitraire): Force de traction = 0.25N
 ===> COMMENT AUGMENTER PUISSANCE? (tUYERE? DOUBLE HELICE?)
-==> CF PHOTOSz
+==> CF PHOTOS
 
+## mardi 21 Janvier
+Le bateau est terminé; à mois d'y apporter quelques légères modifications. Nous avons fixé le "pont" sur lequel repose le moteur;
+
+AFIN D'ALIMENTER le moteur: se procurer un porte-piles ou une batterie, que l'on installera avec un interrupteur
+
+Premiers tests tuyère (bouteille eau):
+    -le bateau recule, certainement parce que le flux sortant est trop élevé: de fait l'eau est reflouée et pars dans le sens opposé, entraînant le bateau avec elle.
 
 
 
